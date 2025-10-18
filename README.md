@@ -1,6 +1,6 @@
 <h1>Jump Start Git, Second Edition</h1>
 <h2>Shaumik Daityari</h2>
-<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1594866302i/54547975.jpg" alt="cover">
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1594866302i/54547975.jpg" alt="cover" height="300px">
 <p>2020. SitePoint Pty. Ltd.</p>
 <p>Ebook ISBN: 978-1-925836-35-6</p>
 <hr>
