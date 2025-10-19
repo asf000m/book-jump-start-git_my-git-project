@@ -6,4 +6,4 @@
 <hr>
 <h3>Chapter 1: Introduction - <em>Completed 2025-09-27</em></h3>
 <h3>Chapter 2: Getting Started with Git - <em>Completed 2025-10-18</em></h3>
-<h3>Chapter 3: Branching in Git</h3>
+<h3>Chapter 3: Branching in Git - <em>Completed 2025-10-19</em></h3>
